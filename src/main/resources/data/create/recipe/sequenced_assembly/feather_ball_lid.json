@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+  },
+  "results": [
+    {
+      "id": "create_encapsulated_gravelmon:feather_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "world_of_color:white_paint"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "create_encapsulated_gravelmon:mewtwo_ball_lid",
+    "create_encapsulated_gravelmon:snore_ball_lid",
+    "create_encapsulated_gravelmon:shiny_ball_lid",
+    "create_encapsulated_gravelmon:ark_ball_lid",
+    {
+      "id": "create_encapsulated_gravelmon:mewtwo_ball_lid",
+      "required": false
+    }
+  ]
+}

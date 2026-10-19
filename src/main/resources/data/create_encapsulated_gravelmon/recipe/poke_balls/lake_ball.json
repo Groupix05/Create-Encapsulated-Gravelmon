@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated:poke_ball_base"
+    },
+    [
+      {
+        "item": "create:zinc_nugget"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      }
+    ],
+    {
+      "item": "create_encapsulated_gravelmon:lake_ball_lid"
+    },
+    {
+      "item": "world_of_color:blue_paint"
+    }
+  ],
+  "result": {
+    "id": "gravelmon:lake_ball"
+  }
+}

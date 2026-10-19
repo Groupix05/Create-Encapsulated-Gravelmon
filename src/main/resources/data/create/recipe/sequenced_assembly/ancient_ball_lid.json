@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated:split_yellow_apricorn"
+  },
+  "results": [
+    {
+      "id": "create_encapsulated_gravelmon:ancient_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_yellow_apricorn"
+        },
+        [
+          {
+            "item": "minecraft:end_stone_bricks"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_yellow_apricorn"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated:split_yellow_apricorn"
+  }
+}

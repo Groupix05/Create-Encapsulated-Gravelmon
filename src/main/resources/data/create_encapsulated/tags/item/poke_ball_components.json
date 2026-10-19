@@ -1,0 +1,39 @@
+{
+  "replace": false,
+  "values": [
+    "create_encapsulated_gravelmon:split_orange_apricorn",
+    "create_encapsulated_gravelmon:split_purple_apricorn",
+    "create_encapsulated_gravelmon:anime_gs_ball_lid",
+    "create_encapsulated_gravelmon:gs_ball_lid",
+    "create_encapsulated_gravelmon:lime_ball_lid",
+    "create_encapsulated_gravelmon:fishing_ball_lid",
+    "create_encapsulated_gravelmon:gen2_lure_ball_lid",
+    "create_encapsulated_gravelmon:feather_ball_lid",
+    "create_encapsulated_gravelmon:sun_ball_lid",
+    "create_encapsulated_gravelmon:delta_ball_lid",
+    "create_encapsulated_gravelmon:nuclear_ball_lid",
+    "create_encapsulated_gravelmon:lake_ball_lid",
+    "create_encapsulated_gravelmon:dawn_ball_lid",
+    "create_encapsulated_gravelmon:snore_ball_lid",
+    "create_encapsulated_gravelmon:ancient_ball_lid",
+    "create_encapsulated_gravelmon:xeno_ball_lid",
+    "create_encapsulated_gravelmon:atom_ball_lid",
+    "create_encapsulated_gravelmon:shiny_ball_lid",
+    "create_encapsulated_gravelmon:ark_ball_lid",
+    "create_encapsulated_gravelmon:nuzlocke_ball_lid",
+    "create_encapsulated_gravelmon:ancient_mauve_ball_lid",
+    "create_encapsulated_gravelmon:ancient_coral_ball_lid",
+    "create_encapsulated_gravelmon:gay_ball_lid",
+    "create_encapsulated_gravelmon:lesbian_ball_lid",
+    "create_encapsulated_gravelmon:bi_ball_lid",
+    "create_encapsulated_gravelmon:pan_ball_lid",
+    "create_encapsulated_gravelmon:trans_ball_lid",
+    "create_encapsulated_gravelmon:non_binary_ball_lid",
+    "create_encapsulated_gravelmon:ace_ball_lid",
+    "create_encapsulated_gravelmon:aro_ball_lid",
+    {
+      "id": "create_encapsulated_gravelmon:mewtwo_ball_lid",
+      "required": false
+    }
+  ]
+}

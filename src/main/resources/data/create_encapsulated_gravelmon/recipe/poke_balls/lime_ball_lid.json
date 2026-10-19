@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated:split_white_apricorn"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "world_of_color:lime_paint"
+    }
+  ],
+  "result": {
+    "id": "create_encapsulated_gravelmon:lime_ball_lid"
+  }
+}

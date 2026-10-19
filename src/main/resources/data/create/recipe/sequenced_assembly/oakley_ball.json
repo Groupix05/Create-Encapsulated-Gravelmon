@@ -1,0 +1,52 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "cobblemon:citrine_ball"
+  },
+  "results": [
+    {
+      "id": "gravelmon:oakley_ball"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "cobblemon:citrine_ball"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "world_of_color:red_paint"
+        }
+      ],
+      "results": [
+        {
+          "id": "cobblemon:citrine_ball"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "cobblemon:citrine_ball"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "world_of_color:purple_paint"
+        }
+      ],
+      "results": [
+        {
+          "id": "cobblemon:citrine_ball"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "cobblemon:citrine_ball"
+  }
+}

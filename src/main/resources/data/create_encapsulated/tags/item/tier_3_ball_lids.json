@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "create_encapsulated_gravelmon:ultra_rocket_ball_lid",
+    "create_encapsulated_gravelmon:delta_ball_lid",
+    "create_encapsulated_gravelmon:dawn_ball_lid",
+    "create_encapsulated_gravelmon:ancient_ball_lid",
+    "create_encapsulated_gravelmon:atom_ball_lid"
+  ]
+}

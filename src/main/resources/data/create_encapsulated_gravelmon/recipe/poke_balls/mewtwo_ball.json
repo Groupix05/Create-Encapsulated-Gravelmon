@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "lost_lore"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " S ",
+    "ZO "
+  ],
+  "key": {
+    "#": {
+      "item": "create_encapsulated_gravelmon:mewtwo_ball_lid"
+    },
+    "S": {
+      "item": "minecraft:diamond"
+    },
+    "Z": {
+      "item": "world_of_color:black_paint"
+    },
+    "O": {
+      "item": "create_encapsulated:poke_ball_base"
+    }
+  },
+  "result": {
+    "id": "lost_lore:mewtwo_ball",
+    "count": 1
+  }
+}

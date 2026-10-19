@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "create_encapsulated_gravelmon:gs_ball_lid",
+    "create_encapsulated_gravelmon:lime_ball_lid",
+    "create_encapsulated_gravelmon:great_rocket_ball_lid",
+    "create_encapsulated_gravelmon:gen2_lure_ball_lid",
+    "create_encapsulated_gravelmon:feather_ball_lid",
+    "create_encapsulated_gravelmon:sun_ball_lid",
+    "create_encapsulated_gravelmon:nuclear_ball_lid",
+    "create_encapsulated_gravelmon:lake_ball_lid",
+    "create_encapsulated_gravelmon:xeno_ball_lid",
+    "create_encapsulated_gravelmon:gay_ball_lid",
+    "create_encapsulated_gravelmon:lesbian_ball_lid",
+    "create_encapsulated_gravelmon:bi_ball_lid",
+    "create_encapsulated_gravelmon:pan_ball_lid",
+    "create_encapsulated_gravelmon:trans_ball_lid",
+    "create_encapsulated_gravelmon:non_binary_ball_lid",
+    "create_encapsulated_gravelmon:ace_ball_lid",
+    "create_encapsulated_gravelmon:aro_ball_lid"
+  ]
+}

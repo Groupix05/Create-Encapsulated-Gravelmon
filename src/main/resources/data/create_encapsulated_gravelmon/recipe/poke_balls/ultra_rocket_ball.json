@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:ultra_ball"
+    },
+    {
+      "item": "world_of_color:purple_paint"
+    },
+    {
+      "item": "world_of_color:red_paint"
+    }
+  ],
+  "result": {
+    "id": "gravelmon:ultra_rocket_ball"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated_gravelmon:split_white_apricorn"
+    },
+    {
+      "item": "world_of_color:yellow_paint"
+    },
+    {
+      "item": "world_of_color:purple_paint"
+    },
+    {
+      "item": "world_of_color:gray_paint"
+    }
+  ],
+  "result": {
+    "id": "create_encapsulated_gravelmon:non_binary_ball_lid"
+  }
+}

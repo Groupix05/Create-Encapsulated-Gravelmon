@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated_gravelmon:split_white_apricorn"
+    },
+    {
+      "item": "world_of_color:red_paint"
+    },
+    {
+      "item": "world_of_color:black_paint"
+    }
+  ],
+  "result": {
+    "id": "create_encapsulated_gravelmon:xeno_ball_lid"
+  }
+}

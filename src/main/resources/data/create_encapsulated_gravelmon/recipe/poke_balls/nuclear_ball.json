@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " S ",
+    "ZOB"
+  ],
+  "key": {
+    "#": {
+      "item": "create_encapsulated_gravelmon:nuclear_ball_lid"
+    },
+    "S": {
+      "item": "create:zinc_nugget"
+    },
+    "Z": {
+      "item": "world_of_color:black_paint"
+    },
+    "O": {
+      "item": "create_encapsulated:poke_ball_base"
+    },
+    "B": {
+      "item": "world_of_color:lime_paint"
+    }
+  },
+  "result": {
+    "id": "gravelmon:nuclear_ball",
+    "count": 1
+  }
+}

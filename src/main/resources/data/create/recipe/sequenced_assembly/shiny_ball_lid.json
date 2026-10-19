@@ -1,0 +1,73 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated:split_blue_apricorn"
+  },
+  "results": [
+    {
+      "id": "create_encapsulated_gravelmon:shiny_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_blue_apricorn"
+        },
+        [
+          {
+            "item": "minecraft:diamond"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_blue_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_blue_apricorn"
+        },
+        [
+          {
+            "item": "minecraft:prismarine_crystals"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_blue_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_blue_apricorn"
+        },
+        [
+          {
+            "item": "create:sand_paper"
+          },
+          {
+            "item": "create:red_sand_paper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_blue_apricorn"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated:split_blue_apricorn"
+  }
+}

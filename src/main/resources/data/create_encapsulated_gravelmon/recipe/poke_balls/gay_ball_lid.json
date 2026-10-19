@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated_gravelmon:split_white_apricorn"
+    },
+    {
+      "item": "world_of_color:yellow_paint"
+    },
+    {
+      "item": "world_of_color:orange_paint"
+    },
+    {
+      "item": "world_of_color:blue_paint"
+    },
+    {
+      "item": "world_of_color:purple_paint"
+    },
+    {
+      "item": "world_of_color:red_paint"
+    },
+    {
+      "item": "world_of_color:black_paint"
+    },
+    {
+      "item": "world_of_color:green_paint"
+    }
+  ],
+  "result": {
+    "id": "create_encapsulated_gravelmon:gay_ball_lid"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "create_encapsulated_gravelmon:split_orange_apricorn",
+    "create_encapsulated_gravelmon:split_purple_apricorn",
+    "create_encapsulated_gravelmon:oakley_ball_lid",
+    "create_encapsulated_gravelmon:annie_ball_lid",
+    "create_encapsulated_gravelmon:rocket_ball_lid",
+    "create_encapsulated_gravelmon:fishing_ball_lid",
+    "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+  ]
+}

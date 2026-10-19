@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "minecraft:slabs"
+  },
+  "results": [
+    {
+      "id": "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "tag": "minecraft:wooden_slabs"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+        },
+        [
+          {
+            "tag": "c:nuggets/copper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+        },
+        [
+          {
+            "tag": "minecraft:leaves"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated_gravelmon:nuzlocke_ball_lid"
+  }
+}

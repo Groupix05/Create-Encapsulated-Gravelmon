@@ -1,0 +1,52 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated_gravelmon:split_orange_apricorn"
+  },
+  "results": [
+    {
+      "id": "gravelmon:coral_ball"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_orange_apricorn"
+        },
+        [
+          {
+            "item": "create_encapsulated:poke_ball_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_orange_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_orange_apricorn"
+        },
+        [
+          {
+            "tag": "c:nuggets/copper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_orange_apricorn"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated_gravelmon:split_orange_apricorn"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cobblemon:slate_ball"
+    },
+    {
+      "item": "world_of_color:red_paint"
+    },
+    {
+      "item": "world_of_color:magenta_paint"
+    }
+  ],
+  "result": {
+    "id": "gravelmon:annie_ball"
+  }
+}

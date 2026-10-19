@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated:poke_ball_base"
+    },
+    [
+      {
+        "item": "create:zinc_nugget"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      }
+    ],
+    {
+      "item": "create_encapsulated_gravelmon:gen2_lure_ball_lid"
+    }
+  ],
+  "result": {
+    "id": "gravelmon:gen2_lure_ball"
+  }
+}

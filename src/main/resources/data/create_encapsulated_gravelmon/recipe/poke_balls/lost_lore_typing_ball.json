@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " S ",
+    "ZO "
+  ],
+  "key": {
+    "#": {
+      "item": "create_encapsulated:split_blue_apricorn"
+    },
+    "S": {
+      "tag": "c:nuggets/gold"
+    },
+    "Z": {
+      "item": "world_of_color:orange_paint"
+    },
+    "O": {
+      "item": "create_encapsulated:poke_ball_base"
+    }
+  },
+  "result": {
+    "id": "lost_lore:typing_ball",
+    "count": 1
+  }
+}

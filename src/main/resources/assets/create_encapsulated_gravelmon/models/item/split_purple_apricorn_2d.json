@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_encapsulated_gravelmon:item/split_purple_apricorn_2d"
+  }
+}

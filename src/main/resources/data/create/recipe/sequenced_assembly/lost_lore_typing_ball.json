@@ -1,0 +1,71 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated:split_blue_apricorn"
+  },
+  "results": [
+    {
+      "id": "lost_lore:typing_ball"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_blue_apricorn"
+        },
+        [
+          {
+            "tag": "c:nuggets/gold"
+          }
+
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_blue_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_blue_apricorn"
+        },
+        [
+          {
+            "item": "create_encapsulated:poke_ball_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_blue_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_blue_apricorn"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "world_of_color:orange_paint"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_blue_apricorn"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated:split_blue_apricorn"
+  }
+}

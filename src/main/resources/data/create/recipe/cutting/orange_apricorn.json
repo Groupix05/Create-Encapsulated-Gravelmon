@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "gravelmon:orange_apricorn"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 2,
+      "id": "create_encapsulated_gravelmon:split_orange_apricorn"
+    }
+  ]
+}

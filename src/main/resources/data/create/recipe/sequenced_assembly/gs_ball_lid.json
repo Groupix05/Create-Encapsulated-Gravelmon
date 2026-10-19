@@ -1,0 +1,52 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated:split_yellow_apricorn"
+  },
+  "results": [
+    {
+      "id": "create_encapsulated_gravelmon:gs_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_yellow_apricorn"
+        },
+        [
+          {
+            "tag": "c:nuggets/gold"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:gs_ball_lid"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:gs_ball_lid"
+        },
+        [
+          {
+            "tag": "c:ingots/gold"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:gs_ball_lid"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated_gravelmon:gs_ball_lid"
+  }
+}

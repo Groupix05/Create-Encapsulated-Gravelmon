@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated:split_yellow_apricorn"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:nuggets/gold"
+    }
+  ],
+  "result": {
+    "id": "create_encapsulated_gravelmon:gs_ball_lid"
+  }
+}

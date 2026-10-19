@@ -1,0 +1,70 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "cobblemon:tumblestone"
+  },
+  "results": [
+    {
+      "id": "gravelmon:ancient_coral_ball"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cobblemon:tumblestone"
+        },
+        [
+          {
+            "item": "create_encapsulated_gravelmon:split_orange_apricorn"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "cobblemon:tumblestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cobblemon:tumblestone"
+        },
+        [
+          {
+            "item": "create_encapsulated:poke_ball_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "cobblemon:tumblestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cobblemon:tumblestone"
+        },
+        [
+          {
+            "item": "create:copper_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "cobblemon:tumblestone"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated_gravelmon:split_orange_apricorn"
+  }
+}

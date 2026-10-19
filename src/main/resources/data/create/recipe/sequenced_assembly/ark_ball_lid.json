@@ -1,0 +1,135 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+  },
+  "results": [
+    {
+      "id": "create_encapsulated_gravelmon:ark_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        },
+        [
+          {
+            "item": "minecraft:crying_obsidian"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        },
+        [
+          {
+            "item": "minecraft:nether_star"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        },
+        [
+          {
+            "item": "create:rose_quartz"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        },
+        [
+          {
+            "tag": "c:ingots/gold"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated_gravelmon:split_purple_apricorn"
+        },
+        [
+          {
+            "item": "create:sand_paper"
+          },
+          {
+            "item": "create:red_sand_paper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated_gravelmon:split_purple_apricorn"
+  }
+}

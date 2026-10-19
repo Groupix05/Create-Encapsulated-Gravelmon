@@ -1,0 +1,71 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "lost_lore"
+    }
+  ],
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_encapsulated:split_black_apricorn"
+  },
+  "results": [
+    {
+      "id": "create_encapsulated_gravelmon:mewtwo_ball_lid"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_black_apricorn"
+        },
+        [
+          {
+            "item": "minecraft:shulker_shell"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_black_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_black_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_black_apricorn"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_encapsulated:split_black_apricorn"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "world_of_color:black_paint"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_encapsulated:split_black_apricorn"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create_encapsulated:split_black_apricorn"
+  }
+}

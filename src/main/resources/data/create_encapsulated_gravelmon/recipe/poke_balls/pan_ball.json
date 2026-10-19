@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_encapsulated:poke_ball_base"
+    },
+    [
+      {
+        "tag": "c:nuggets/brass"
+      }
+    ],
+    {
+      "item": "create_encapsulated_gravelmon:pan_ball_lid"
+    }
+  ],
+  "result": {
+    "id": "gravelmon:pan_ball"
+  }
+}
