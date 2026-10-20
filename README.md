@@ -2,7 +2,7 @@ Create: Encapsulated Gravelmon is an addon for Create: Encapsulated that adds co
 
 CREDITS:
 
-Create: Encapusated : https://modrinth.com/mod/create-encapsulated
+Create: Encapsulated : https://modrinth.com/mod/create-encapsulated
 
 Gravelmon : https://modrinth.com/mod/gravelmon
 
